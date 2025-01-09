@@ -11,3 +11,7 @@ export function myIndexOf(arr, item, from = 0) {
 
     return -1;
 }
+
+// function myIndexOf(arr, item, from = 0) {
+//     return arr.findIndex((el, index) => el === item && index >= from);
+// }

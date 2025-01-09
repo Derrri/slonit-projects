@@ -11,3 +11,7 @@ export function myIncludes(arr, item, from = 0) {
 
     return false;
 }
+
+// function myIncludes(arr, item, from = 0) {
+//     return arr.some((el, index) => el === item && index >= from);
+// }

@@ -11,3 +11,7 @@ export function mySlice(arr, start = 0, end = arr.length) {
 
     return result;
 }
+
+// function mySlice(arr, start = 0, end = arr.length) {
+//     return arr.slice(start, end);
+// }
