@@ -1,7 +1,7 @@
 // Импорт
-import { mySlice } from './array_helpers/my-slice.js';
-import { myIndexOf } from './array_helpers/my-index-of.js';
-import { myIncludes } from './array_helpers/my-includes.js';
+import { mySlice } from './slon_slice.js';
+import { myIndexOf } from './slon_index_of.js';
+import { myIncludes } from './slon_includes.js';
 
 // Экспорт
 export {
